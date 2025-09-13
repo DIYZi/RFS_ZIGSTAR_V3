@@ -1,2 +1,11 @@
-# RFS_ZIGSTAR_V3
-Zigbee coordinator Zigstar gateway Lan CC2652P1/P7 
+# Zigbee coordinator Zigstar LAN V3.1
+
+<div align="center">
+<img width="80%" src="./images/RFS_ZIGSTAR_wiki.jpg">
+</div>
+
+---
+
+### Full documentation is published on [Wiki](https://github.com/DIYZi/RFS_ZIGSTAR_V3/wiki)
+
+---
